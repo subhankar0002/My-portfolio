@@ -131,6 +131,16 @@
         .achievements li:hover{
             transform: scale(1.05);
         }
+        .achievements a {
+            color: #f05454;
+            text-decoration: none;
+            font-weight: bold;
+            transition: color 0.3s;
+        }
+
+        .achievements a:hover {
+            color: #f1c40f;
+        }
 
         footer {
             text-align: center;
