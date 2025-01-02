@@ -41,6 +41,23 @@
             font-weight: bold;
             font-size: 1.2rem;
         }
+        nav button{
+
+                background-color: #ff7f50;
+                color: #fff;
+                border: none;
+                padding: 0.3rem 1rem;
+                margin-left: 2.5rem;
+                border-radius: 20px;
+                font-weight: bold ;
+                font-size: 1rem;
+                cursor: pointer;
+                transition: background-color 0.3s;
+            
+        }
+        nav button:hover{
+            background-color: rgba(235, 50, 50, 0.666);
+        }
 
         nav a:hover {
             color: #f39c12;
@@ -50,12 +67,13 @@
             padding: 40px 20px;
         }
         .about-content p{
+            margin-top: 5rem;
             width: 90%;   
         }
         #about{
             display: flex;
             justify-content: space-between;
-            gap: .5rem;
+            gap: 2.5rem;
 
         }
         .section { 
@@ -92,6 +110,28 @@
             transform: scale(1.1);
         }
 
+        .achievements {
+            list-style-type: none;
+            padding: 0;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            justify-content: center;
+        }
+
+        .achievements li {
+            background:  rgba(0, 0, 0, 0.5);
+            padding: 15px;
+            border-radius: 8px;
+            text-align: center;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+            transition: transform 0.2s;
+
+        }
+        .achievements li:hover{
+            transform: scale(1.05);
+        }
+
         footer {
             text-align: center;
             padding: 20px;
@@ -106,6 +146,7 @@
         }
 
         .profile-image img {
+            margin-top: .8rem;
             border-radius: 50%;
             width: 200px;
             height: 200px;
@@ -136,6 +177,7 @@
             margin: 0 0 10px;
             color: #f39c12;
         }
+        
 
         .project-card p {
             font-size: 1rem;
@@ -153,6 +195,17 @@
 
             nav a {
                 font-size: 1rem;
+            }
+            .profile-image h2 {
+                transform: translateX(-35%);
+
+            }
+            #about{
+                display: block;
+            }
+            .about-content p{
+                margin-left: 1rem;
+                margin-top: 1rem;
             }
 
             .skills span {
@@ -180,6 +233,13 @@
 
             nav a {
                 margin: 5px;
+            }
+            .profile-image h2 {
+                transform: translateX(-22%);
+            }
+            #about{
+                display: block;
+
             }
 
             .skills span {
