@@ -176,6 +176,7 @@
             border-radius: 10px;
             text-align: center;
             transition: transform 0.3s, box-shadow 0.3s;
+            cursor: pointer;
         }
 
         .project-card:hover {
@@ -192,6 +193,14 @@
         .project-card p {
             font-size: 1rem;
             margin: 0;
+        }
+        .words{
+            /* position: relative; */
+            transform: translateY(78%);
+        }
+        #contact{
+            display: flex;
+            justify-content: space-between;
         }
 
         @media (max-width: 768px) {
@@ -225,6 +234,9 @@
 
             .project-card {
                 padding: 15px;
+            }
+            .words{
+                display: none;
             }
         }
 
