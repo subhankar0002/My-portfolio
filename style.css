@@ -276,5 +276,8 @@
             .project-card {
                 padding: 10px;
             }
+            #contact{
+                display: block;
+            }
         }
     
