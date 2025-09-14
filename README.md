@@ -7,7 +7,7 @@ Built with HTML, CSS, JavaScript (no external frameworks) and designed to be fas
 ---
 
 ##  Demo
- Live Website: [https://subhankar0002.github.io/My-portfolio/] (#)
+ Live Website: [https://subhankar0002.github.io/My-portfolio/](#)
 
 ---
 
