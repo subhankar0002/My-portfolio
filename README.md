@@ -21,7 +21,7 @@ Built with HTML, CSS, JavaScript (no external frameworks) and designed to be fas
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Frontend**: HTML5, CSS3, JavaScript (Vanilla)    
 - **Styling**: Flexbox & CSS Grid, Custom CSS variables  
 - **Deployment**: GitHub Pages 
@@ -30,6 +30,6 @@ Built with HTML, CSS, JavaScript (no external frameworks) and designed to be fas
 
 ## Contact
 
--  LinkedIn: [https://www.linkedin.com/in/subhankar0002/]
+-  LinkedIn: [https://www.linkedin.com/in/subhankar0002/](#)
 -  GitHub: [https://github.com/subhankar0002]
 -  Email: sahasubhankarkoronn@gmail.com
