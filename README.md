@@ -7,7 +7,7 @@ Built with HTML, CSS, JavaScript (no external frameworks) and designed to be fas
 ---
 
 ##  Demo
- Live Website: [https://subhankar0002.github.io/My-portfolio/]  
+ Live Website: [https://subhankar0002.github.io/My-portfolio/] (#)
 
 ---
 
@@ -31,5 +31,5 @@ Built with HTML, CSS, JavaScript (no external frameworks) and designed to be fas
 ## Contact
 
 -  LinkedIn: [https://www.linkedin.com/in/subhankar0002/](#)
--  GitHub: [https://github.com/subhankar0002]
+-  GitHub: [https://github.com/subhankar0002](#)
 -  Email: sahasubhankarkoronn@gmail.com
